@@ -1,0 +1,367 @@
+body{
+  margin-top:15px;
+  background-color: whitesmoke;
+}
+
+* {
+  font-family: 'Lato', 'Noto Sans JP',-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.lead-text {
+  padding: 10px;
+  text-decoration: none;
+  font-size: 1.3rem;
+  font-weight: 300;
+}
+img {
+  object-fit: cover;
+}
+ /* Style all font awesome icons */
+.club-social .fa {
+  padding: 15px;
+  font-size: 15px;
+  width: 40px;
+  text-align: center;
+  text-decoration: none;
+}
+.club-social .fa:hover {
+  opacity: 0.7;
+}
+.club-social .fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.club-social .fa-instagram {
+  background: #f5477b;
+  color: white;
+} 
+span a {
+  margin-right: 10px;
+  margin-bottom: 20px;
+}
+
+/* Carousel CSS begins */
+.carousel .carousel-item {
+  height: 500px;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 500px;
+}
+/* Carousel CSS ends */
+
+/* Team CSS */
+.team {
+  border-bottom: 100px;
+}
+
+.team-list img {
+  width: 50%;
+}
+
+.team-list .content {
+  width: 50%;
+}
+
+.team-list .content .follow {
+  position: absolute;
+  bottom: 24px;
+}
+
+.team-list:hover {
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+}
+
+.team, .team-list {
+  -webkit-transition: all 0.5s cubic-bezier(0.68, -0.55, 0.27, 1.55) 0s;
+  transition: all 0.5s cubic-bezier(0.68, -0.55, 0.27, 1.55) 0s;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+.team .content .title, .team-list .content .title {
+  font-size: 18px;
+}
+
+.team .overlay {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  opacity: 0;
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+
+.team .member-position, .team .team-social {
+  position: absolute;
+  bottom: -35px;
+  right: 0;
+  left: 0;
+  margin: auto 10%;
+  z-index: 99;
+}
+
+.team .team-social {
+  bottom: 40px;
+  opacity: 0;
+  -webkit-transition: all 0.5s cubic-bezier(0.68, -0.55, 0.27, 1.55) 0s;
+  transition: all 0.5s cubic-bezier(0.68, -0.55, 0.27, 1.55) 0s;
+}
+
+.team:hover {
+  -webkit-transform: translateY(-7px);
+          transform: translateY(-7px);
+  -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+          box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+}
+
+.team:hover .overlay {
+  opacity: 0.6;
+}
+
+.team:hover .team-social {
+  opacity: 1;
+}
+
+@media (max-width: 768px) {
+  .team-list img,
+  .team-list .content {
+    width: 100%;
+    float: none !important;
+  }
+  .team-list img .follow,
+  .team-list .content .follow {
+    position: relative;
+    bottom: 0;
+  }
+}
+
+.social-icon.social li a {
+    color: #adb5bd;
+    border-color: #adb5bd;
+}
+.social-icon li a {
+    color: #35404e;
+    border: 1px solid #35404e;
+    display: inline-block;
+    height: 32px;
+    text-align: center;
+    font-size: 15px;
+    width: 32px;
+    line-height: 30px;
+    -webkit-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+    overflow: hidden;
+    position: relative;
+}
+.rounded {
+    border-radius: 5px !important;
+}
+
+.para-desc {
+    max-width: 600px;
+}
+.text-muted {
+    color: #8492a6 !important;
+}
+
+.section-title .title {
+    letter-spacing: 0.5px;
+    font-size: 30px;
+}
+
+.team ul li a {
+  color: #8d97ad;
+  -webkit-transition: 0.1s ease-in;
+  -o-transition: 0.1s ease-in;
+  transition: 0.1s ease-in;
+}
+
+.team ul li a:hover {
+  -webkit-transform: translate3d(0px, -5px, 0px);
+  transform: translate3d(0px, -5px, 0px);
+	color: #316ce8;
+}
+
+footer a {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Footer CSS ends */
+
+/* Header CSS begins */
+#header-background {
+  background-image: url(.././img/bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 120px;
+}
+
+.navbar-nav {
+  margin: auto;
+  padding-top: 25px;
+  padding-bottom: 20px;
+}
+
+.nav-item {
+  padding-left: 80px;
+  padding-right: 80px;
+  font-size: 20px;
+}
+/* Header CSS ends */
+
+/* Footer HOME Page begins */
+/*footer*/
+.col_white_amrc { 
+  color:#FFF;
+}
+footer {
+  width:100%;
+  background-color:#171e27;
+  min-height:200px;
+  padding-top:10px;
+}
+
+footer p { 
+  font-size:13px;
+  color:#CCC;
+  padding-bottom:0px;
+  margin-bottom:8px;
+}
+.mb10 {
+  padding-bottom:15px;
+}
+.footer_ul_amrc { 
+  text-align: left;
+  margin:0px;
+  list-style-type:none;
+  font-size:14px;
+  padding:0px 0px 10px 0px;
+}
+.footer_ul_amrc li {
+  padding:0px 0px 5px;
+  padding-left: 40%;
+}
+.footer_ul_amrc li a{
+  color:#CCC;
+}
+.footer_ul_amrc li a:hover{
+  color:#fff;
+  text-decoration:none;
+}
+.fleft { 
+  float:left;
+}
+.padding-right { 
+  padding-right:10px;
+}
+
+/* .footer_ul2_amrc {
+  margin:0px;
+  list-style-type:none;
+  padding:0px;
+}
+.footer_ul2_amrc li p { 
+  display:table;
+}
+.footer_ul2_amrc li a:hover { 
+  text-decoration:none;
+}
+.footer_ul2_amrc li i { 
+  margin-top:5px;
+} */
+
+.bottom_border { 
+  border-bottom:1px solid #323f45;
+  padding-bottom:20px;
+}
+/* .foote_bottom_ul_amrc {
+	list-style-type:none;
+	padding:0px;
+	display:table;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-bottom: 10px;
+	margin-left: auto;
+}
+.foote_bottom_ul_amrc li { 
+  display:inline;
+}
+.foote_bottom_ul_amrc li a {
+  color:#999;
+  margin:0 12px;
+} */
+.social_footer_ul { 
+  display:flex;
+  width: 100%;
+  justify-content: center;
+  list-style-type:none;
+  padding-left: 1rem;
+  margin-top: 0.5rem;
+}
+.social_footer_ul li {
+  float:left;
+}
+.social_footer_ul li a {
+  color:#CCC;
+  padding-right: 10px;
+}
+.social_footer_ul li i {
+
+  border:1px solid #CCC;
+  border-radius:50%;
+  width:32px;
+  padding-top: 8px;
+  height:32px;
+  text-align:center;
+}
+
+
+/* Home Page Nav Bar CSS */
+.navbar {
+  transition: all 0.4s;
+}
+
+.navbar .nav-link {
+  color: #fff;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link:focus {
+  color: #fff;
+  text-decoration: none;
+}
+
+.navbar .navbar-brand {
+  color: #fff;
+}
+
+
+/* Change navbar styling on scroll */
+.navbar.active {
+  background: #fff;
+  box-shadow: 1px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.navbar.active .nav-link {
+  color: #555;
+}
+
+.navbar.active .nav-link:hover,
+.navbar.active .nav-link:focus {
+  color: #555;
+  text-decoration: none;
+}
+
+.navbar.active .navbar-brand {
+  color: #555;
+}
+

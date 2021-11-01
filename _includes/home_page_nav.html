@@ -1,0 +1,54 @@
+<!-- Header -->
+<div class="entire-page">
+    <div class="topnav" id="myTopnav">
+        <a href="#home" class="active-alpha"><img src="../img/gymkhana_logo.png" alt=""></a>
+        <a href="#news">News</a>
+        <a href="#contact">Contact</a>
+        <div class="dropdown-alpha">
+            <button class="dropbtn">Dropdown
+                <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="dropdown-content">
+                <a href="#">Link 1</a>
+                <a href="#">Link 2</a>
+                <a href="#">Link 3</a>
+            </div>
+        </div>
+        <a href="#about">About</a>
+        <a href="javascript:void(0);" class="icon-alpha" onclick="responsiveNav()">&#9776;</a>
+    </div>
+    <div class="main-content">
+        Cultural society
+    </div>
+</div>
+
+
+<script>
+    console.log("Nazish");
+    function responsiveNav() {
+        var respons = document.getElementById("myTopnav");
+        if (respons.className === "topnav") {
+            respons.className += " responsive";
+        } else {
+            respons.className = "topnav";
+        }
+    }
+
+    // Sticky navigation
+    window.onscroll = function () {
+        stickyNav();
+    };
+
+    var navbar = document.getElementById("myTopnav");
+
+    // Get the offset position of the navbar
+    var sticky = navbar.offsetTop;
+    function stickyNav() {
+        if (window.pageYOffset > sticky) {
+            navbar.classList.add("sticky");
+        } else {
+            navbar.classList.remove("sticky");
+        }
+    }
+
+</script>

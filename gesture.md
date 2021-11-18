@@ -5,11 +5,11 @@ facebook: https://facebook.com
 insta: https://instagram.com
 team:
     - member:
-        name: Ashish Bazar
-        url: img\gesture\Ash.jpg
+        name: Senjuti Chakraborty
+        url: img\gesture\Senjuti Photo.jpg
         phone: 
-        email: bd19bdes11009@iith.ac.in
-        pos: Coordinator
+        email: md20mdes14025@iith.ac.in
+        pos: Head
     - member:
         name: Akanksha Pansare
         url: img\gesture\20210708_181353 - AKANKSHA GANESH PANSARE.jpg

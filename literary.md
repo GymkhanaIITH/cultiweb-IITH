@@ -33,6 +33,12 @@ team:
       email: "cs18btech11042@iith.ac.in"
       pos: Head, LitSoc
   - member:
+      name: Mansi Nanavati
+      url: img/litsoc/IMG_20210126_182210 - Mansi Arpit Nanavati.jpg
+      phone: 8688299704
+      email: "ee19btech11036@iith.ac.in"
+      pos: Head, LitSoc
+  - member:
       name: Varenya Upadhyaya
       url: img/litsoc/Screenshot_20210709-200235_2 - Varenya Upadhyaya.jpg
       email: "ep20btech11026@iith.ac.in"

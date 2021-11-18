@@ -11,17 +11,17 @@ team:
         email: ch19btech11018@iith.ac.in
         pos: Coordinator
     - member:
-        name: Anand
-        url: img\shuffle\Anand.jpg
-        phone: 9515481817
-        email: ee19btech11007@iith.ac.in
+        name: Sailesh Reddy M
+        url: img\shuffle\BA4B3042-6004-4F3D-8463-66912664C369 - SAILESH REDDY MALE.png
+        phone: 9740834746
+        email: ee20btech11045@iith.ac.in
         pos: Coordinator
     - member:
-        name: Ipsita Joshi
-        url: img/shuffle/Ipsita.jpg
+        name: Aditya Singh Ambesh 
+        url: img/shuffle/20211006_024300_6 - ADITYA SINGH AMBESH.jpg
         phone: 
-        email: et20mtech14002@iith.ac.in
-        pos: Core
+        email: ch19btech11004@iith.ac.in
+        pos: Coordinator
     - member:
         name: Bonila sai Likhith
         url: img/shuffle/LIKHITH.jpg

@@ -11,34 +11,28 @@ team:
         email: '@iith.ac.in'
         pos: Coordinator
     - member:
-        name: Sankhojyoti Halder
-        url: img/Infocus/Sankhojyoti.jpg
-        phone: '7028010530'
-        email: ai19btech11004@iith.ac.in'
+        name: Ishani Churi
+        url: img/Infocus/IMG_20200713_121734_2 - Ishani Churi.jpg
+        phone: '9152233084'
+        email: bd20bdes11012@iith.ac.in
         pos: Coordinator
     - member:
-        name: Likhith Kumar
-        url: img/Infocus/Likhith.jpg
-        phone: '+917028010530'
-        email: '@iith.ac.in'
+        name: Shantanu Pandey
+        url: img/Infocus/CS20BTECH11046 - Shantanu Pandey.jpg
+        phone: '9264958736'
+        email: 'cs20btech11046@iith.ac.in'
         pos: Coordinator
     - member:
-        name: Angad Narula
-        url: img/Infocus/Angad.jpg
-        phone: '+917028010530'
-        email: '@iith.ac.in'
-        pos: Core
-    - member:
-        name: Renuka Thangallapally
+        name: RENUKA THANGALLAPALLY 
         url: img/Infocus/Renuka.jpg
-        phone: ''
-        email: '@iith.ac.in'
+        phone: 7075101168
+        email: ch19btech11019@iith.ac.in
         pos: Core
     - member:
-        name: Gokul Kannan
-        url: img/Infocus/Gokul.jpg
-        phone: ''
-        email: '@iith.ac.in'
+        name: Akash Sen
+        url: img/Infocus/IMG20210106093802-01-01 - AKASH SEN.jpeg
+        phone: '7585879193'
+        email: 'ma20mscst11005@iith.ac.in'
         pos: Core
 carousel:
     - image:

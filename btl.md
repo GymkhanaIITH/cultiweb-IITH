@@ -11,16 +11,16 @@ team:
         email: MS20MTECH14003@IITH.AC.IN
         pos: Coordinator
     - member:
-        name: Kishore K
-        url: img\btl\Kishore K.jpg
+        name: ASWIN KUMAR P
+        url: img\btl\IMG_20211115_221137_470 - ASWIN KUMAR P.jpg
         phone: 8778559025
-        email: CE19BTECH11036@IITH.AC.IN
+        email: me19btech11026@iith.ac.in
         pos: Coordinator
     - member:
-        name: Sanyog Thakur
-        url: img\btl\logo1.png
-        phone: 9926907622
-        email: CE19BTECH11020@IITH.AC.IN
+        name: Ramanathan Annamalai
+        url: img\btl\Picture - RAMANATHAN ANNAMALAI.jpg
+        phone: 990123980
+        email: bm20btech11011@iith.ac.in
         pos: Coordinator
     - member:
         name: Dheeban jayraj R

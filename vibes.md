@@ -10,24 +10,19 @@ team:
         phone: 
         email: '@iith.ac.in'
     - member:
-        name: Spandan More
-        url: img/vibes/spandan.jpg
-        phone: '7028010530'
-        email: 'es19btech11004@iith.ac.in'
+        name: Vidya Ajay
+        url: img/vibes/26568A6E-8E64-403A-AF74-AF572B81D86B - Vidya Ajay.jpeg
+        phone: '8589880779'
+        email: 'bm20btech11017@iith.ac.in'
     - member:
-        name: Tarun Ram Menta
-        url: img/vibes/tarun.jpg
-        phone: '+917028010530'
-        email: '@iith.ac.in'
+        name: Yash Rathi
+        url: img/vibes/Profile Pic - YASH RATHI.jpg
+        phone: '7032514404'
+        email: 'cs19btech11058@iith.ac.in'
     - member:
         name: Pradnya Chavan
         url: img/vibes/pradnya.jpg
         phone: '+917028010530'
-        email: '@iith.ac.in'
-    - member:
-        name: Yash Rathi
-        url: img/vibes/yash.jpg
-        phone: ''
         email: '@iith.ac.in'
     - member:
         name: Ganni Mahima

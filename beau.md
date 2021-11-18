@@ -11,10 +11,10 @@ team:
         email: 'ch17btech11024@iith.ac.in'
         pos: Coordinator
     - member:
-        name: Vinisha Mohanchandran
-        url: img/beau/Vinisha.jpg
-        phone: '+919892909790'
-        email: 'md20mdes14029@iith.ac.in'
+        name: GAUTHAM SATHISH
+        url: img/beau/PHOTO - Gautham Sathish.jpg
+        phone: '9446323057'
+        email: 'me20mtech14002@iith.ac.in'
         pos: Coordinator
     - member:
         name: M Ria Francis

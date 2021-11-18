@@ -11,10 +11,10 @@ team:
         email: bd19bdes11009@iith.ac.in
         pos: Coordinator
     - member:
-        name: Senjuti chakraborty
-        url: img\gesture\Senjuti Photo.jpg
-        phone: 
-        email: md20mdes14025@iith.ac.in
+        name: Akanksha Pansare
+        url: img\gesture\20210708_181353 - AKANKSHA GANESH PANSARE.jpg
+        phone: 8275424006
+        email: bd20bdes11001@iith.ac.in
         pos: Coordinator
     - member:
         name: Sankhojyoti halder

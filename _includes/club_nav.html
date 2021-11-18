@@ -1,41 +1,54 @@
-    <!-- Header -->
-    <div id="header-background">
-      <nav class="navbar navbar-expand-lg navbar-dark">
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse navbar-expand-lg" id="navbarNavDropdown">
-            <ul class="navbar-nav">
-              <li class="nav-item active">
-                <a class="nav-link text-white" href="index.html">HOME</a>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="dropdown-toggle nav-link" aria-expanded="false" data-bs-toggle="dropdown"
-                href="#" style="color: white;"role="button" href="#" id="clubDropdown" >CLUBS </a>
-              <ul class="dropdown-menu" aria-labelledby="clubDropDown">
-                <li><a class="dropdown-item" href="literary.html">Literary Society</a></li>
-                <li><a class="dropdown-item" href="rdm.html">Rang De Manch</a></li>
-                <li><a class="dropdown-item" href="vibes.html">Vibes Music Club</a></li>
-                <li><a class="dropdown-item" href="shuffle.html">Shuffle Dance Club</a></li>
-                <li><a class="dropdown-item" href="infocus.html">Infocus Photography Club</a></li>
-                <li><a class="dropdown-item" href="btl.html">Behind The Lens Club</a></li>
-                <li><a class="dropdown-item" href="beau.html">Beau Monde Club</a></li>
-                <li><a class="dropdown-item" href="gesture.html">Gesture Club</a></li>
-              </ul>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link text-white" href="calendar.html" target="_blank">CALENDAR</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link text-white" href="https://theiithlexicon.wordpress.com/">LEXICON</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link text-white" href="feedback.html">FEEDBACK</a>
-            </li>
-            </ul>
-  
-          </div>
-        
-        </nav>
-        <h3 style="text-align: center;padding-bottom: 15px !important;" class="text-white title h2" >{{page.title | upcase }}</h3>
+<!-- Header -->
+<div id="header-background">
+  <nav class="navbar navbar-expand-lg navbar-dark">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
+      aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse navbar-expand-lg" id="navbarNavDropdown">
+      <ul class="navbar-nav">
+        <li class="nav-item active">
+          <a class="nav-link text-white" href="index.html">HOME</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="dropdown-toggle nav-link" aria-expanded="false" data-bs-toggle="dropdown" href="#"
+            style="color: white;" role="button" href="#" id="clubDropdown">CLUBS </a>
+          <ul class="dropdown-menu" aria-labelledby="clubDropDown">
+            <li><a class="dropdown-item" href="literary.html">Literary Society</a></li>
+            <li><a class="dropdown-item" href="rdm.html">Rang De Manch</a></li>
+            <li><a class="dropdown-item" href="vibes.html">Vibes Music Club</a></li>
+            <li><a class="dropdown-item" href="shuffle.html">Shuffle Dance Club</a></li>
+            <li><a class="dropdown-item" href="infocus.html">Infocus Photography Club</a></li>
+            <li><a class="dropdown-item" href="btl.html">Behind The Lens Club</a></li>
+            <li><a class="dropdown-item" href="beau.html">Beau Monde Club</a></li>
+            <li><a class="dropdown-item" href="gesture.html">Gesture Club</a></li>
+          </ul>
+        </li>
+        {% if page.title != 'Contact Form' %}
+        <li class="nav-item">
+          <a class="nav-link text-white" href="calendar.html" target="_blank">CALENDAR</a>
+        </li>
+        {% else %}
+        <li class="nav-item">
+          <a class="nav-link text-white" href="contact.html">CONTACT</a>
+        </li>
+        {% endif %}
+        <li class="nav-item">
+          <a class="nav-link text-white" href="https://theiithlexicon.wordpress.com/">LEXICON</a>
+        </li>
+        {% if page.title != 'Contact Form' %}
+        <li class="nav-item">
+          <a class="nav-link text-white" href="feedback.html">FEEDBACK</a>
+        </li>
+      </ul>
+      {% else %}
+      <li class="nav-item">
+        <a href="/" class="active-alpha"><img src="../img/culti_logo.png" alt=""></a>
+      </li>
+      {% endif %}
     </div>
+
+  </nav>
+  <h3 style="text-align: center;padding-bottom: 15px !important;" class="text-white title h2">{{page.title | upcase }}
+  </h3>
+</div>

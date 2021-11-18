@@ -5,34 +5,28 @@ facebook: https://www.facebook.com/RangDeManch/
 insta: https://www.instagram.com/rangdemanch/?hl=en
 team:
     - member:
-        name: Bhuvenesh	
-        url: img/rdm/Bhuvenesh.jpeg
-        phone: 9409345274
-        email: ce18btech11007@iith.ac.in
-        pos: Head
-    - member:
-        name: Yogesh Swami
-        url: img/rdm/Yogesh.jpg
-        phone: 9780714152
-        email: ep17btech11019@iith.ac.in
-        pos: Coordinator
-    - member:
-        name: Harsha Vardhan
-        url: img/rdm/Harsha.jpg
-        phone: 7013592206
-        email: me19btech11027@iith.ac.in
-        pos: Coordinator
-    - member:
         name: Shreya Khadkekar
         url: img/rdm/Shreya .jpg
         phone: 9403521845
         email: ms19btech11007@iith.ac.in
+        pos: Head
+    - member:
+        name: Kodi Vaidesh
+        url: img/rdm/KODI VAIDESH.jpg
+        phone: 9014646674
+        email: ce20btech11018@iith.ac.in
         pos: Coordinator
     - member:
-        name: Ved Waliokar
-        url: img/rdm/Ved Waliokar .jpg
+        name: Tapishi kaur
+        url: img/rdm/Tapishi - TAPISHI KAUR.jpeg
+        phone: 863054543712
+        email: ma20btech11017@iith.ac.in
+        pos: Coordinator
+    - member:
+        name: Padmini Palivela
+        url: img/rdm/PADMINI PALIVELA.jpg
         phone: 7757808155
-        email: md20mdes14011@iith.ac.in
+        email: ee20btech11038@iith.ac.in
         pos: Coordinator
 carousel:
     - image:

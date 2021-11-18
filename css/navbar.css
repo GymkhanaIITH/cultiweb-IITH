@@ -73,7 +73,6 @@ body {
     padding: 14px 16px;
     background-color: inherit;
     font-family: inherit;
-    margin: 0;
     margin: 26px 0px 26px 0px;
     font-size: 1.5em;
 }
@@ -125,13 +124,15 @@ height: 6vh;
     margin-bottom: 32px;
 }
 
-
+/* 
 .topnav a:hover,
 .dropdown-alpha:hover .dropbtn {
     background-color: #555;
-    color: white;
+    color: rgb(100, 6, 6);
+} */
+.hoverit:hover{
+    color:#1ABC9C;
 }
-
 .dropdown-content a:hover {
     background-color: #111;
     color: #cfcfcf;

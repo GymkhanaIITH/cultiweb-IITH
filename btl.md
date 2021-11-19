@@ -5,11 +5,11 @@ facebook: https://facebook.com
 insta: https://instagram.com
 team:
     - member:
-        name: Yashwanth R 
-        url: img\btl\Yaswanth R.jpg
-        phone: 9940590006
-        email: MS20MTECH14003@IITH.AC.IN
-        pos: Coordinator
+        name: Kishore K
+        url: img\btl\Kishore K.jpg
+        phone: 8778559025
+        email: ce19btech11036@iith.ac.in
+        pos: Head
     - member:
         name: ASWIN KUMAR P
         url: img\btl\IMG_20211115_221137_470 - ASWIN KUMAR P.jpg
@@ -23,40 +23,28 @@ team:
         email: bm20btech11011@iith.ac.in
         pos: Coordinator
     - member:
-        name: Dheeban jayraj R
-        url: img\btl\R Dheeban Jayraj.jpeg
-        phone: 
-        email: MS19BTECH11004@IITH.AC.IN
+        name: Shantanu Pandey
+        url: img/Infocus/CS20BTECH11046 - Shantanu Pandey.jpg
+        phone: '9264958736'
+        email: 'cs20btech11046@iith.ac.in'
+        pos: Coordinator
+    - member:
+        name: GAUTHAM SATHISH
+        url: img/beau/PHOTO - Gautham Sathish.jpg
+        phone: '9446323057'
+        email: 'me20mtech14002@iith.ac.in'
         pos: Core
     - member:
-        name: Shaik Zameer Ahamed
-        url: img\btl\Zameer Ahamed.jpg
-        phone: 
-        email: MS19BTECH11017@IITH.AC.IN
+        name: Srivastan T
+        url: img/btl/WhatsApp Image 2021-08-26 at 7.02.25 PM (2) - SRIVATSAN T.jpeg
+        phone: '8610593033'
+        email: 'cs20mtech11062@iith.ac.in'
         pos: Core
     - member:
-        name: Jatin kumar 
-        url: img\btl\logo1.png
-        phone: 
-        email: CS19BTECH11036@IITH.AC.IN
-        pos: Core
-    - member:
-        name: Pochetti Rashmitha
-        url: img\btl\P.Rashmitha.jpg
-        phone: 
-        email: CS19BTECH11019@IITH.AC.IN
-        pos: Core
-    - member:
-        name: Mayank Agrawal
-        url: img\btl\IMG_20201101_143558.jpg
-        phone: 
-        email: EE19BTECH11049@IITH.AC.IN
-        pos: Core
-    - member:
-        name: Shree varsha
-        url: img\btl\logo1.png
-        phone: 
-        email: ME19BTECH11020@IITH.ACIN
+        name: Vikhyath Sai Kothamasu
+        url: img/btl/cs20btech11056-square - Vikhyath.jpg
+        phone: '7708711549'
+        email: 'cs20mtech11056@iith.ac.in'
         pos: Core
 carousel:
     - image:

@@ -5,8 +5,8 @@ facebook: https://facebook.com
 insta: https://instagram.com/shuffle_crew_iith?igshid=1l0ubmy8eyi1a
 team:
     - member:
-        name: Aahan Jain
-        url: img\shuffle\Aahan Jain.jpg
+        name: Donthu Anand Sai 
+        url: img\shuffle\Anand.jpg
         phone: 8008495801
         email: ch19btech11018@iith.ac.in
         pos: Coordinator
@@ -23,16 +23,22 @@ team:
         email: ch19btech11004@iith.ac.in
         pos: Coordinator
     - member:
-        name: Bonila sai Likhith
-        url: img/shuffle/LIKHITH.jpg
+        name: Gedela Sai Sravya
+        url: img/shuffle/Sravya - GEDELA SAI SRAVYA.jpg
         phone: 
-        email: es19btech11024@iith.ac.in
+        email: es20btech11013@iith.ac.in
         pos: Core
     - member:
-        name: Samhitha.Y	
-        url: img\shuffle\Samhitha.jpg
+        name: K.Madhumitha	
+        url: img\shuffle\madhu photo - KATAM MADHUMITHA.jpeg
+        phone: 8309567379
+        email: me20btech11022@iith.ac.in
+        pos: Core
+    - member:
+        name: Kandarpi Ananya	
+        url: img\shuffle\IMG_3697 - KANDARPI ANANYA.jpg
         phone: 
-        email: me19btech11017@iith.ac.in
+        email: me20btech11021@iith.ac.in
         pos: Core
 carousel:
     - image:

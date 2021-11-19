@@ -5,11 +5,11 @@ facebook: https://facebook.com
 insta: https://instagram.com
 team:
     - member:
-        name: Parul
-        url: img/beau/Parul.jpg
-        phone: '+917028010530'
-        email: 'ch17btech11024@iith.ac.in'
-        pos: Coordinator
+        name: Vinisha Mohanchandran
+        url: img/beau/Vinisha.jpg
+        phone: '9892909790'
+        email: 'md20mdes14029@iith.ac.in'
+        pos: Head
     - member:
         name: GAUTHAM SATHISH
         url: img/beau/PHOTO - Gautham Sathish.jpg
@@ -17,10 +17,10 @@ team:
         email: 'me20mtech14002@iith.ac.in'
         pos: Coordinator
     - member:
-        name: M Ria Francis
-        url: img/beau/Ria.jpg
-        phone: '+917028010530'
-        email: 'md20mdes14035@iith.ac.in'
+        name: K.Madhumitha	
+        url: img\shuffle\madhu photo - KATAM MADHUMITHA.jpeg
+        phone: 8309567379
+        email: me20btech11022@iith.ac.in
         pos: Core
     - member:
         name: Ananya Gautam
@@ -29,22 +29,10 @@ team:
         email: 'md20mdes14034@iith.ac.in'
         pos: Core
     - member:
-        name: Sandilya S
+        name: Yashraj Dhanuka
         url: img/beau/Sandilya.jpg
-        phone: ''
-        email: 'ch17btech11028@iith.ac.in'
-        pos: Core
-    - member:
-        name: Avantika Urmaliya
-        url: img/beau/Avantika.jpg
-        phone: ''
-        email: 'ce19btech11034@iith.ac.in'
-        pos: Core
-    - member:
-        name: Renuka Thangallapally
-        url: img/beau/Renuka.jpg
-        phone: ''
-        email: 'ch19btech11019@iith.ac.in'
+        phone: '7007142724'
+        email: 'ew20mtech11002@iith.ac.in'
         pos: Core
 carousel:
     - image:

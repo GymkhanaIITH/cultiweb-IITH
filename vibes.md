@@ -9,21 +9,25 @@ team:
         url: img/vibes/faizul_haq.jpg
         phone: 
         email: '@iith.ac.in'
+        pos: 'Head'
     - member:
         name: Vidya Ajay
         url: img/vibes/26568A6E-8E64-403A-AF74-AF572B81D86B - Vidya Ajay.jpeg
         phone: '8589880779'
         email: 'bm20btech11017@iith.ac.in'
+        pos: 'Coordinator'
     - member:
         name: Yash Rathi
         url: img/vibes/Profile Pic - YASH RATHI.jpg
         phone: '7032514404'
         email: 'cs19btech11058@iith.ac.in'
+        pos: 'Coordinator'
     - member:
-        name: Pradnya Chavan
-        url: img/vibes/pradnya.jpg
-        phone: '+917028010530'
-        email: '@iith.ac.in'
+        name: Vishal V Desai
+        url: img/litsoc/IMG_20200827_144143_639 - VISHAL V DESAI.jpg
+        phone: 9886365669
+        email: "ph20mscst11022@iith.ac.in"
+        pos: 'Core'
     - member:
         name: Ganni Mahima
         url: img/vibes/g-mahima.jpg

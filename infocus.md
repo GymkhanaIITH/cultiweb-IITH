@@ -5,16 +5,22 @@ facebook: https://facebook.com
 insta: https://instagram.com
 team:
     - member:
-        name: Abhishek Gautam
-        url: img/Infocus/AbhishekGautam.jpg
-        phone: 
-        email: '@iith.ac.in'
-        pos: Coordinator
+        name: RENUKA THANGALLAPALLY 
+        url: img/Infocus/Renuka.jpg
+        phone: 7075101168
+        email: ch19btech11019@iith.ac.in
+        pos: Head
     - member:
         name: Ishani Churi
         url: img/Infocus/IMG_20200713_121734_2 - Ishani Churi.jpg
         phone: '9152233084'
         email: bd20bdes11012@iith.ac.in
+        pos: Coordinator
+    - member:
+        name: Akash Sen
+        url: img/Infocus/IMG20210106093802-01-01 - AKASH SEN.jpeg
+        phone: '7585879193'
+        email: 'ma20mscst11005@iith.ac.in'
         pos: Coordinator
     - member:
         name: Shantanu Pandey
@@ -23,16 +29,22 @@ team:
         email: 'cs20btech11046@iith.ac.in'
         pos: Coordinator
     - member:
-        name: RENUKA THANGALLAPALLY 
-        url: img/Infocus/Renuka.jpg
-        phone: 7075101168
-        email: ch19btech11019@iith.ac.in
+        name: Aditya Singh Ambesh 
+        url: img/shuffle/20211006_024300_6 - ADITYA SINGH AMBESH.jpg
+        phone: 
+        email: ch19btech11004@iith.ac.in
         pos: Core
     - member:
-        name: Akash Sen
-        url: img/Infocus/IMG20210106093802-01-01 - AKASH SEN.jpeg
-        phone: '7585879193'
-        email: 'ma20mscst11005@iith.ac.in'
+        name: Srilakshmi Potnuru
+        url: img/Infocus/IMG-20210822-WA0106 (1) - POTNURU SRILAKSHMI.jpg
+        phone: '9391498296'
+        email: 'ep20btech11016@iith.ac.in'
+        pos: Core
+    - member:
+        name: Vikhyath Sai Kothamasu
+        url: img/btl/cs20btech11056-square - Vikhyath.jpg
+        phone: '7708711549'
+        email: 'cs20mtech11056@iith.ac.in'
         pos: Core
 carousel:
     - image:

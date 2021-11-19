@@ -57,6 +57,30 @@ team:
       phone: 9908010452
       pos: Writing Club Coordinator
   - member:
+      name: Teerth Raval
+      url: img/gesture/Gesture _ Culturals IITH - Google Chrome 11_19_2021 4_02_10 PM.png
+      phone: 7020426653
+      email: me20btech11046@iith.ac.in
+      pos: Writing Club Core
+  - member:
+      name: Anish Ambavat
+      url: img/litsoc/Screenshot_20210826-161910_WhatsApp - Anish Ambavat.jpg
+      email: "ch20btech11006@iith.ac.in"
+      phone: 9967939300
+      pos: Writing Club Core
+  - member:
+      name: V Rahul
+      url: img/litsoc/IMG_20201113_164933__01 - V Rahul.jpg
+      email: "ai20btech11030@iith.ac.in"
+      phone: 8667406096
+      pos: Writing Club Core
+  - member:
+      name: Megh Shah
+      url: img/litsoc/IMG_2491 - M Shah.jpg
+      email: "cs20btech11032@iith.ac.in"
+      phone: 9104670281
+      pos: Writing Club Core
+  - member:
       name: Amulya Tallamraju
       url: img/litsoc/AMULYA TALLAMRAJU.jpeg
       email: "ai20btech11003@iith.ac.in"
@@ -69,6 +93,30 @@ team:
       phone: 8790449627
       pos: Debate Club Coordinator
   - member:
+      name: Niharika kute
+      url: img\litsoc\niharika.jpeg
+      phone: 7709359542
+      email: ep20btech11012@iith.ac.in
+      pos: Debate Club Core
+  - member:
+      name: Aditi Agarwal
+      url: img/btl/Cultural and Literary Clubs Team 2021-22 - Google Sheets - Google Chrome 11_19_2021 3_53_22 PM.png
+      phone: '7999682571'
+      email: 'me20mtech11001@iith.ac.in'
+      pos: Debate Club Core
+  - member:
+      name: Ramanathan Annamalai
+      url: img\btl\Picture - RAMANATHAN ANNAMALAI.jpg
+      phone: 990123980
+      email: bm20btech11011@iith.ac.in
+      pos: Debate Club Core
+  - member:
+      name: Stephen V S
+      url: img\litsoc\IMG_20210325_204840_931 - STEPHEN V S.jpg
+      phone: 8136938412
+      email: ce20btech11040@iith.ac.in
+      pos: Debate Club Core
+  - member:
       name: Kethari Narasimha Vardhan
       url: img/litsoc/KETHARI NARASIMHA VARDHAN.jpg
       phone: 9652793113
@@ -80,6 +128,18 @@ team:
       phone: 9886365669
       email: "ph20mscst11022@iith.ac.in"
       pos: Quiz Club Coordinator
+  - member:
+      name: Ishani Churi
+      url: img/Infocus/IMG_20200713_121734_2 - Ishani Churi.jpg
+      phone: '9152233084'
+      email: bd20bdes11012@iith.ac.in
+      pos: BMC Core
+  - member:
+      name: Srivastan T
+      url: img/btl/WhatsApp Image 2021-08-26 at 7.02.25 PM (2) - SRIVATSAN T.jpeg
+      phone: '8610593033'
+      email: 'cs20mtech11062@iith.ac.in'
+      pos: BMC Core
 carousel:
   - image:
       position: "0"

@@ -5,10 +5,10 @@ facebook: https://facebook.com
 insta: https://instagram.com
 team:
     - member:
-        name: Faizul Haq
-        url: img/vibes/faizul_haq.jpg
-        phone: 
-        email: '@iith.ac.in'
+        name: Spandan More
+        url: img/vibes/spandan.jpg
+        phone: 7028010530
+        email: 'es19btech11009@iith.ac.in'
         pos: 'Head'
     - member:
         name: Vidya Ajay
@@ -29,10 +29,29 @@ team:
         email: "ph20mscst11022@iith.ac.in"
         pos: 'Core'
     - member:
-        name: Ganni Mahima
-        url: img/vibes/g-mahima.jpg
-        phone: ''
-        email: '@iith.ac.in'
+        name: Samyuktha V
+        url: img/vibes/FD4203BB-7226-4B09-86C2-306BEB8C81D2 - SAMYUKTHA V.jpeg
+        phone: '9962362542'
+        email: 'ms20btech11024@iith.ac.in'
+        pos: 'Core'
+    - member:
+        name: Tanmay Goyal
+        url: img/vibes/WhatsApp Image 2021-08-09 at 9.36.02 PM - TANMAY GOYAL.jpeg
+        phone: '9665544953'
+        email: 'ai20btech11021@iith.ac.in'
+        pos: 'Core'
+    - member:
+        name: Satya Aditi
+        url: img/vibes/WhatsApp Image 2021-11-19 at 3.26.05 PM.jpeg
+        phone: '9505695646'
+        email: 'ee20btech11046@iith.ac.in'
+        pos: 'Core'
+    - member:
+        name: Hari Prasad
+        url: img/vibes/WhatsApp 11_19_2021 3_36_41 PM.png
+        phone: '7305205794'
+        email: 'me20btech11041@iith.ac.in'
+        pos: 'Core'
 carousel:
     - image:
         position: '0'

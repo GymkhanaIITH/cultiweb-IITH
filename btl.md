@@ -35,10 +35,28 @@ team:
         email: 'me20mtech14002@iith.ac.in'
         pos: Core
     - member:
+        name: Aditi Agarwal
+        url: img/btl/Cultural and Literary Clubs Team 2021-22 - Google Sheets - Google Chrome 11_19_2021 3_53_22 PM.png
+        phone: '7999682571'
+        email: 'me20mtech11001@iith.ac.in'
+        pos: Core
+    - member:
         name: Srivastan T
         url: img/btl/WhatsApp Image 2021-08-26 at 7.02.25 PM (2) - SRIVATSAN T.jpeg
         phone: '8610593033'
         email: 'cs20mtech11062@iith.ac.in'
+        pos: Core
+    - member:
+        name: P. Uday Ratna Sekhar
+        url: img/btl/WhatsApp 11_19_2021 11_11_58 AM.png
+        phone: '9989795055'
+        email: 'ee20mtech11039@iith.ac.in'
+        pos: Core
+    - member:
+        name: Prasanth Tata
+        url: img/btl/8.jpg (461×600) - Google Chrome 11_19_2021 3_51_27 PM.png
+        phone: '9000180912'
+        email: 'ep20mtech11023@iith.ac.in'
         pos: Core
     - member:
         name: Vikhyath Sai Kothamasu

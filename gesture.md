@@ -17,46 +17,28 @@ team:
         email: bd20bdes11001@iith.ac.in
         pos: Coordinator
     - member:
-        name: Sankhojyoti halder
-        url: img\gesture\gest.jpg
-        phone: 
-        email: ai19btech11016@iith.ac.in
+        name: Gollamudi Renuka
+        url: img\gesture\IMG-20210814-WA0031 - GOLLAMUDI RENUKA.jpg
+        phone: 8300981059
+        email: me20btech11018@iith.ac.in
         pos: Core
     - member:
-        name: Soumi Chakraborty
-        url: img/gesture/SoumiChakraborty.jpg
-        phone: 
-        email: es19btech11017@iith.ac.in
+        name: Arumugam Swetha
+        url: img/gesture/Arumugam Swetha - ARUMUGAM SWETHA.jpg
+        phone: 8247827244
+        email: ee20btech11005@iith.ac.in
         pos: Core
     - member:
-        name: Rahul S
-        url: img/gesture/gest.jpg
-        phone: 
-        email: ai19btech11002@iith.ac.in
+        name: Tapishi kaur
+        url: img/rdm/Tapishi - TAPISHI KAUR.jpeg
+        phone: 863054543712
+        email: ma20btech11017@iith.ac.in
         pos: Core
     - member:
-        name: Swejyoti Mitra
-        url: img/gesture/Swejyoti.jpg
-        phone: 
-        email: ph20resch11007@iith.ac.in
-        pos: Core
-    - member:
-        name: Anirban Barthakur
-        url: img/gesture/gest.jpg
-        phone: 
-        email: md20mdes14012@iith.ac.in
-        pos: Core
-    - member:
-        name: Twinkle Das
-        url: img/gesture/Twinkle Das (2).jpg
-        phone: 
-        email: md20mdes14016@iith.ac.in
-        pos: Core
-    - member:
-        name: Mili Jain
-        url: img/gesture/gest.jpg
-        phone: 
-        email: md20mdes14030@iith.ac.in
+        name: Teerth Raval
+        url: img/gesture/Gesture _ Culturals IITH - Google Chrome 11_19_2021 4_02_10 PM.png
+        phone: 7020426653
+        email: me20btech11046@iith.ac.in
         pos: Core
     - member:
         name: Sharanya

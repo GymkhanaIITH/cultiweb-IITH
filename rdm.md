@@ -31,7 +31,7 @@ team:
     - member:
         name: Tejash Agrahari
         url: img/rdm/Tejash.jpg
-        phone: 
+        phone: 9651180408
         email: ep20btech11024@iith.ac.in
         pos: Core Irshaad
     - member:
@@ -40,6 +40,12 @@ team:
        phone: 9886365669
        email: "ph20mscst11022@iith.ac.in"
        pos: Core Irshaad
+    - member:
+        name: Teerth Raval
+        url: img/gesture/Gesture _ Culturals IITH - Google Chrome 11_19_2021 4_02_10 PM.png
+        phone: 7020426653
+        email: me20btech11046@iith.ac.in
+        pos: Core Irshaad
     - member:
         name: Gedela Sai Sravya
         url: img/shuffle/Sravya - GEDELA SAI SRAVYA.jpg
@@ -68,6 +74,12 @@ team:
         name: Sidhant Ranka
         url: img/rdm/IMG_20210715_133812 - UG Head Sunshine.jpg
         email: "ce20btech11038@iith.ac.in"
+        phone: 9586406788
+        pos: Core Prastuti
+    - member:
+        name: Vibhuvan kumar reddy mukkamalla
+        url: img/rdm/WhatsApp Image 2021-11-19 at 4.52.03 PM.jpeg
+        email: "ee20btech11055@iith.ac.in"
         phone: 9586406788
         pos: Core Prastuti
     

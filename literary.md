@@ -63,6 +63,12 @@ team:
       email: me20btech11046@iith.ac.in
       pos: Writing Club Core
   - member:
+      name: Vibhuvan kumar reddy mukkamalla
+      url: img/rdm/WhatsApp Image 2021-11-19 at 4.52.03 PM.jpeg
+      email: "ee20btech11055@iith.ac.in"
+      phone: 9586406788
+      pos: Writing Club Core
+  - member:
       name: Anish Ambavat
       url: img/litsoc/Screenshot_20210826-161910_WhatsApp - Anish Ambavat.jpg
       email: "ch20btech11006@iith.ac.in"
@@ -140,6 +146,42 @@ team:
       phone: '8610593033'
       email: 'cs20mtech11062@iith.ac.in'
       pos: BMC Core
+  - member:
+      name: Ameya Chatur
+      url: img/litsoc/162997302577518650431018683299 - AMEYA CHATUR.jpg
+      phone: '7028044273'
+      email: 'bm20btech11002@iith.ac.in'
+      pos: BMC Core
+  - member:
+        name: Yash Rajput
+        url: img/litsoc/IMG-20210823-WA0066 - YASH RAJPUT.jpg
+        phone: '9752334968'
+        email: 'bm20btech11018@iith.ac.in'
+        pos: BMC Core
+  - member:
+      name: Aayush Patel
+      url: img/litsoc/4732B236-F014-42E0-B84F-C8C7A97F1882 - AAYUSH PATEL.jpeg
+      phone: '9987210636'
+      email: 'cs20btech11001@iith.ac.in'
+      pos: Quiz Club Core
+  - member:
+      name: S Goutham Sai 
+      url: img/litsoc/Your Pic - S GOUTHAM SAI.jpg
+      phone: '9515739516'
+      email: 'cs20btech11042@iith.ac.in'
+      pos: Quiz Club Core
+  - member:
+      name: Gollumudi Renuka  
+      url: img\gesture\IMG-20210814-WA0031 - GOLLAMUDI RENUKA.jpg
+      phone: 8300981059
+      email: me20btech11018@iith.ac.in
+      pos: Quiz Club Core
+  - member:
+        name: Vikhyath Sai Kothamasu
+        url: img/btl/cs20btech11056-square - Vikhyath.jpg
+        phone: '7708711549'
+        email: 'cs20mtech11056@iith.ac.in'
+        pos: Quiz Club Core
 carousel:
   - image:
       position: "0"

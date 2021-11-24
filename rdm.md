@@ -92,13 +92,13 @@ carousel:
         url: img\rdm\Rdm_1.jpg
     - image:
         position: '2'
-        url: img\rdm\Rdm_6.JPG
+        url: img\rdm\Rdm_6.jpg
     - image: 
         position: '3'
-        url: img\rdm\Rdm_4.JPG
+        url: img\rdm\Rdm_4.jpg
     - image: 
         position: '4'
-        url: img\rdm\Rdm_5.JPG
+        url: img\rdm\Rdm_5.jpg
     - image: 
         position: '5'
         url: img\rdm\Rdm1.jpg

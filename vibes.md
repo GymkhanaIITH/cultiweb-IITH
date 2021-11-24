@@ -68,6 +68,24 @@ carousel:
     - image:
         position: '4'
         url: img/vibes/IMG_9167.JPG 
+    - image:
+        position: '5'
+        url: img/vibes/DSC_0071.JPG
+    - image: 
+        position: '6'
+        url: img/vibes/DSC_0161.JPG
+    - image:
+        position: '7'
+        url: img/vibes/DSC_0182.JPG
+    - image: 
+        position: '8'
+        url: img/vibes/IMG_6127.JPG 
+    - image:
+        position: '9'
+        url: img/vibes/IMG_6262.JPG 
+    - image:
+        position: '10'
+        url: img/vibes/IMG_9496.JPG 
 ---
 
 Vibes is the Music Club of IITH. At Vibes, we aim to bring together all musicians of different backgrounds 

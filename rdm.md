@@ -86,19 +86,22 @@ team:
 carousel:
     - image:
         position: '0'
-        url: img\gesture\DSC_0103.JPG
+        url: img\rdm\Rdm_.JPG
     - image: 
         position: '1'
-        url: img\gesture\DSC_0174.JPG
+        url: img\rdm\Rdm_1.jpg
     - image:
         position: '2'
-        url: img\gesture\DSC_0239.JPG
+        url: img\rdm\Rdm_6.JPG
     - image: 
         position: '3'
-        url: img\gesture\DSC_0267.JPG
+        url: img\rdm\Rdm_4.JPG
     - image: 
         position: '4'
-        url: img\gesture\IMG_6478.JPG
+        url: img\rdm\Rdm_5.JPG
+    - image: 
+        position: '5'
+        url: img\rdm\Rdm1.jpg
 ---
 
 Rang De Manch is the official drama club of IITH which works under the cultural council of IITH. It is a platform where the students can show their extra curricular activities related with acting. It presents a bunch of amazing events round the year from stage and street performances to mimes and comedy acts that entertain the junta thoroughly. The club aims to entertain people and along with that spread messages for the betterment of the society through mimes,street plays etc. Rang De Manch is a home to all the lovers of acting. A plethora of talented individuals who join every year to take forward IITH's rich legacy in dramatics. From writing plays, to direction and performance members get to learn the skills required for each of these jobs.

@@ -198,6 +198,12 @@ carousel:
   - image:
       position: "4"
       url: img/litsoc/IMG_20180816_203352887.jpg
+  - image:
+      position: "5"
+      url: img/litsoc/1637169673989.jpg
+  - image:
+      position: "6"
+      url: img/litsoc/1637169674032.jpg
 ---
 
 A place for you to express yourself in any form you want, via your sublime writing skills; ranting about your favorite and hated books, movies, TV Series, anything under and beyond the Sun; deliberate and convince people of your or someone else's ideologies via debates, JAMs, turncoats and devil's advocate; embark on an adrenaline-rushed journey to outwit your fellow participants to win the quizzes.

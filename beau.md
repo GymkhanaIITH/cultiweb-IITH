@@ -37,19 +37,19 @@ team:
 carousel:
     - image:
         position: '0'
-        url: img/vibes/Copy of IMG_3592.JPG
+        url: img/beau/DSC_0090.JPG
     - image: 
         position: '1'
-        url: img/vibes/IMG_3551.JPG
+        url: img/beau/DSC_0185.JPG
     - image:
         position: '2'
-        url: img/vibes/IMG_5482.JPG
+        url: img/beau/3.JPG
     - image: 
         position: '3'
-        url: img/vibes/IMG_8469.JPG 
+        url: img/beau/5.JPG 
     - image:
         position: '4'
-        url: img/vibes/IMG_9167.JPG 
+        url: img/beau/IMG_9544.JPG  
 ---
 
 We're the newly fashion club @ IITH.   

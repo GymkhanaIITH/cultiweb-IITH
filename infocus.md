@@ -1,5 +1,5 @@
 ---
-title: InFocus
+title: Infocus
 layout: club
 facebook: https://facebook.com
 insta: https://instagram.com
@@ -49,20 +49,26 @@ team:
 carousel:
     - image:
         position: '0'
-        url: img/vibes/Copy of IMG_3592.JPG
+        url: img/Infocus/DSC_0005.JPG
     - image: 
         position: '1'
-        url: img/vibes/IMG_3551.JPG
+        url: img/Infocus/DSC_0035.JPG
     - image:
         position: '2'
-        url: img/vibes/IMG_5482.JPG
+        url: img/Infocus/DSC_0044.JPG
     - image: 
         position: '3'
-        url: img/vibes/IMG_8469.JPG 
+        url: img/Infocus/DSC00602.JPG 
     - image:
         position: '4'
-        url: img/vibes/IMG_9167.JPG 
+        url: img/Infocus/IMG_6307.JPG 
+    - image:
+        position: '5'
+        url: img/Infocus/IMG_6254.JPG 
+    - image:
+        position: '6'
+        url: img/Infocus/IMG_0917.JPG 
 ---
 
-Life is all about memories. We at InFocus work hard to glorify those moments which add up to your journey making it worthwhile. The club was awarded the best cultural club of the year 2015-16. We not only take photos but also conduct sessions for students who are willing to learn photography. We conduct events throughout the year and have them approachable for everyone out there. Our aim is to expand the club to newer horizons and make the learning experience comfortable for everyone interested.
+Life is all about memories. We at Infocus work hard to glorify those moments which add up to your journey making it worthwhile. The club was awarded the best cultural club of the year 2015-16. We not only take photos but also conduct sessions for students who are willing to learn photography. We conduct events throughout the year and have them approachable for everyone out there. Our aim is to expand the club to newer horizons and make the learning experience comfortable for everyone interested.
 

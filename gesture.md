@@ -62,6 +62,18 @@ carousel:
     - image: 
         position: '4'
         url: img/gesture/IMG_6478.JPG
+    - image: 
+        position: '5'
+        url: img/gesture/Gesture1.jpg
+    - image: 
+        position: '6'
+        url: img/gesture/Gesture2.jpg
+    - image: 
+        position: '7'
+        url: img/gesture/Gesture3.jpg
+    - image: 
+        position: '8'
+        url: img/gesture/Gesture4.jpg
 ---
 
 Creativity and imagination leads to innovation and inventions.

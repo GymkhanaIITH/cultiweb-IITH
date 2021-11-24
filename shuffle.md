@@ -53,6 +53,15 @@ carousel:
     - image: 
         position: '3'
         url: img\shuffle\39407837_2728006093891617_4161340783133196288_o.jpg
+    - image: 
+        position: '4'
+        url: img\shuffle\DSC_0232.JPG
+    - image: 
+        position: '5'
+        url: img\shuffle\IMG_3755.JPG
+    - image: 
+        position: '6'
+        url: img\shuffle\IMG_6618.JPG
 ---
 
 An assorted collection of quirky energy - that's the shuffle crew for you.

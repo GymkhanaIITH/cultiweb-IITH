@@ -28,12 +28,12 @@ team:
         phone: ''
         email: 'md20mdes14034@iith.ac.in'
         pos: Core
-    - member:
-        name: Yashraj Dhanuka
-        url: img/beau/Sandilya.jpg
-        phone: '7007142724'
-        email: 'ew20mtech11002@iith.ac.in'
-        pos: Core
+    # - member:
+    #     name: Yashraj Dhanuka
+    #     url: img/beau/Sandilya.jpg
+    #     phone: '7007142724'
+    #     email: 'ew20mtech11002@iith.ac.in'
+    #     pos: Core
 carousel:
     - image:
         position: '0'
